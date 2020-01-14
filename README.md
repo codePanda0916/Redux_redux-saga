@@ -13,3 +13,5 @@ cnpm install --save redux-saga
 import createSagaMiddleware from 'redux-saga';  // 引入saga
 const sagaMiddleware = createSagaMiddleware();  // 创建saga中间件
 ```
+
+### 备注：此demo正在更新维护中...
